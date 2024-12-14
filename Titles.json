@@ -180,8 +180,8 @@
     "link": "https://www.landeed.com/post/the-inheritance-impasse-karan-and-his-familys-struggles-over-property-division-part-1"
   },
   {
-    "title": "Sale Deed (Certified Copy)",
-    "link": "https://landeed-v2.webflow.io/documents/sale-deed-certified-copy-telangana"
+    "title": "ts sale Deed (Certified Copy)",
+    "link": "https://web.landeed.com/products/telangana/sale_deed"
   },
   {
     "title": "Kaveri Online Website for Property Documents in Karnataka",
@@ -192,7 +192,7 @@
     "link": "https://www.landeed.com/state/telangana"
   },
   {
-    "title": "Maharastra sale deed",
+    "title": "mh sale deed",
     "link": "https://www.landeed.com/documents/maharashtra-sale-deed"
   },
   {
@@ -200,12 +200,12 @@
     "link": "https://www.landeed.com/documents/maharashtra-sale-deed"
   },
   {
-    "title": "Andhra Pradesh sale deed",
-    "link": "https://www.landeed.com/documents/andhra-pradesh-sale-deed"
+    "title": "ap sale deed",
+    "link": "https://web.landeed.com/products/andhra_pradesh/certified_sale_deed"
   },
   {
     "title": "sale deed andhra pradesh ",
-    "link": "https://www.landeed.com/documents/andhra-pradesh-sale-deed"
+    "link": "https://web.landeed.com/products/andhra_pradesh/certified_sale_deed"
   },
   {
     "title": "Karnataka sale deed",
@@ -217,23 +217,23 @@
   },
   {
     "title": "sale deed tamil nadu",
-    "link": "https://www.landeed.com/documents/tamil-nadu-sale-deed"
+    "link": "https://web.landeed.com/products/tamil_nadu/sale_deed"
   },
   {
-    "title": "tamil nadu sale deed",
-    "link": "https://www.landeed.com/documents/tamil-nadu-sale-deed"
+    "title": "tn sale deed",
+    "link": "https://web.landeed.com/products/tamil_nadu/sale_deed"
   },
   {
     "title": "Maharashtra",
     "link": "https://www.landeed.com/state/maharashtra"
   },
   {
-    "title": "karnataka ec",
-    "link": "https://www.landeed.com/documents/karnataka-ec"
+    "title": "Karnataka ec",
+    "link": "https://web.landeed.com/karnataka/encumbrance_certificate"
   },
   {
     "title": "ka ec",
-    "link": "https://www.landeed.com/documents/karnataka-ec"
+    "link": "https://web.landeed.com/karnataka/encumbrance_certificate"
   },
   {
     "title": "mh ec",
@@ -245,34 +245,30 @@
   },
   {
     "title": "tn ec",
-    "link": "https://www.landeed.com/documents/tamil-nadu-ec"
+    "link": "https://web.landeed.com/products/tamil_nadu/certified_ec"
   },
   {
     "title": "tamil nadu ec",
-    "link": "https://www.landeed.com/documents/tamil-nadu-ec"
+    "link": "https://web.landeed.com/products/tamil_nadu/certified_ec"
   },
   {
     "title": "ka ec hard copy",
-    "link": "https://www.landeed.com/documents/karnataka-ec-certified-copy"
+    "link": "https://web.landeed.com/products/karnataka/certified_copy"
   },
   {
     "title": "ka ec cc",
-    "link": "https://www.landeed.com/documents/karnataka-ec-certified-copy"
+    "link": "https://web.landeed.com/products/karnataka/certified_copy"
   },
   {
     "title": "ka ec cc hard copy",
-    "link": "https://www.landeed.com/documents/karnataka-ec-certified-copy"
-  },
-  {
-    "title": "karnataka ec hard copy",
-    "link": "https://www.landeed.com/documents/karnataka-ec-certified-copy"
+    "link": "https://web.landeed.com/products/karnataka/certified_copy"
   },
   {
     "title": "Karnataka Encumbrance Certificate",
     "link": "https://web.landeed.com/karnataka/encumbrance_certificate"
   },
   {
-    "title": "Telangana Encumbrance Certificate",
+    "title": "ts ec",
     "link": "https://web.landeed.com/telangana/encumbrance_certificate"
   },
   {
@@ -280,63 +276,75 @@
     "link": "https://web.landeed.com/telangana/prohibited-properties"
   },
   {
-    "title": "Maharashtra 7/12 Satbara Utara",
+    "title": "mh 7/12 Satbara Utara",
+    "link": "https://web.landeed.com/maharashtra/satbara"
+  },
+{
+    "title": " 7/12 Satbara Utara",
+    "link": "https://web.landeed.com/maharashtra/satbara"
+  },
+{
+    "title": "Satbara Utara",
     "link": "https://web.landeed.com/maharashtra/satbara"
   },
   {
-    "title": "Andhra Pradesh Encumbrance Certificate",
+    "title": "ap ec",
     "link": "https://web.landeed.com/andhra_pradesh/encumbrance_certificate"
   },
   {
-    "title": "Maharashtra Deed Documents",
+    "title": "maharashtra Deed Documents",
+    "link": "https://web.landeed.com/products/maharashtra/deed"
+  },
+{
+    "title": "mh deed documents",
     "link": "https://web.landeed.com/products/maharashtra/deed"
   },
   {
-    "title": "Maharashtra 8A Extract",
+    "title": "mh 8A Extract",
     "link": "https://web.landeed.com/products/maharashtra/eight_a"
   },
   {
-    "title": "Maharashtra Bhunaksha - Digital Cadastral Maps",
+    "title": "mh bhunaksha",
     "link": "https://web.landeed.com/products/maharashtra/bhunaksha"
   },
   {
-    "title": "Maharashtra Building Plan - Structural Blueprints",
+    "title": "mh building plan",
     "link": "https://web.landeed.com/products/maharashtra/building_plan"
   },
   {
-    "title": "Maharashtra Ferfar - Mutation Register",
+    "title": "mh ferfar - mutation Register",
     "link": "https://web.landeed.com/products/maharashtra/ferfar"
   },
   {
-    "title": "Maharashtra Government Market Value",
+    "title": "mh government market value",
     "link": "https://web.landeed.com/products/maharashtra/government_market_value"
   },
   {
-    "title": "Maharashtra Index 2",
+    "title": "mh index 2",
     "link": "https://web.landeed.com/products/maharashtra/index_2"
   },
   {
-    "title": "Maharashtra Legal Opinion",
+    "title": "mh legal opinion",
     "link": "https://web.landeed.com/products/maharashtra/legal_opinion"
   },
   {
-    "title": "Maharashtra Mortgage Report",
+    "title": "mh mortgage report",
     "link": "https://web.landeed.com/products/maharashtra/mortgage_report"
   },
   {
-    "title": "Maharashtra Occupancy Certificate",
+    "title": "mh occupancy certificate",
     "link": "https://web.landeed.com/products/maharashtra/occupancy_certificate"
   },
   {
-    "title": "Maharashtra Property Card",
+    "title": "mh property card",
     "link": "https://web.landeed.com/products/maharashtra/property_card"
   },
   {
-    "title": "PMRDA Zone Certificate",
+    "title": "pmrda zone certificate",
     "link": "https://web.landeed.com/products/maharashtra/pmrda_zone_certificate"
   },
   {
-    "title": "Maharashtra Search Report",
+    "title": "mh search report",
     "link": "https://web.landeed.com/products/maharashtra/rera_certificate"
   }
 ]
